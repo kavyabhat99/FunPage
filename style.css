@@ -1,0 +1,32 @@
+.main{
+   background-color:rgb(119, 202, 228);
+   margin-right:-30px;
+   height: 500px;
+   position: relative;
+   overflow: hidden;
+  
+}
+.centerdiv{
+   background-color:rgb(24, 221, 155);
+   height:300px;
+   width: 400px;
+   position: absolute;
+   top:150px;
+   left: 150px;
+   
+}
+h2{
+    color: brown;
+    font-size: 40px;
+}
+.details{
+    color: brown;
+    font-size:30;
+}
+.click{
+    padding:10px;
+   margin-right:300px;
+    background-color:brown;
+    margin-top:60px;
+}
+
